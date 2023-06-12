@@ -1,0 +1,10 @@
+* json-lib
+
+Simple JSON encoder/decoder for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/KinaKnowledge/json-lib.git   |
+| commit  | {"messa  |
+| systems | json-lib |
+|---------+-------------------------------------------|
+
